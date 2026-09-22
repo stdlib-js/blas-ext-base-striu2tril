@@ -1,0 +1,53 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-22)
+
+<section class="features">
+
+### Features
+
+-   [`7c8ed62`](https://github.com/stdlib-js/stdlib/commit/7c8ed62609abd8be1d1b5c85e84a9cf63307d87d) - add `blas/ext/base/striu2tril` [(#13960)](https://github.com/stdlib-js/stdlib/pull/13960)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`4ef16a9`](https://github.com/stdlib-js/stdlib/commit/4ef16a9543f64c08353ed2ca36e9b7c853e12b2e) - **docs:** remove `API_SUFFIX` wrapper to be consistent with documentation elsewhere _(by Athan Reines)_
+-   [`4ffdd6f`](https://github.com/stdlib-js/stdlib/commit/4ffdd6f38573917b19340e1558f1ea256efe7fe7) - **bench:** fix require paths _(by Athan Reines)_
+-   [`18e0edd`](https://github.com/stdlib-js/stdlib/commit/18e0edd676ba23dbdfa29c91cb9b660a052885c8) - **refactor:** add support for enums in `blas/ext/base/*triu2tril` [(#14886)](https://github.com/stdlib-js/stdlib/pull/14886) _(by Kaustubh Patange)_
+-   [`d4eb315`](https://github.com/stdlib-js/stdlib/commit/d4eb31523d94dbbcd4477ac82b36fbbc1b51e157) - **docs:** remove unused header in examples _(by Athan Reines)_
+-   [`7c8ed62`](https://github.com/stdlib-js/stdlib/commit/7c8ed62609abd8be1d1b5c85e84a9cf63307d87d) - **feat:** add `blas/ext/base/striu2tril` [(#13960)](https://github.com/stdlib-js/stdlib/pull/13960) _(by Kaustubh Patange)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Kaustubh Patange
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
